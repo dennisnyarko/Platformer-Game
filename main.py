@@ -9,6 +9,8 @@ pygame.init()
 # set caption at the top of window
 pygame.display.set_caption("Platformer")
 
+
+# setting screen size
 WIDTH, HEIGHT = 1000, 800
 FPS = 60
 PLAYER_VEL = 5
