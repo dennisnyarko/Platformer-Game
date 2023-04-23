@@ -6,6 +6,7 @@ from os import listdir
 from os.path import isfile, join
 pygame.init()
 
+# set caption at the top of window
 pygame.display.set_caption("Platformer")
 
 WIDTH, HEIGHT = 1000, 800
